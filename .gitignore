@@ -1,0 +1,10 @@
+/docs/
+/.agents/
+
+# Local Python and notebook files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+tmp/
